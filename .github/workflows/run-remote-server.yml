@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 370
     env:
       RDP_USER: Gubby
-      RDP_PASS: Gubby@123
+      RDP_PASS: Gubby@12345
 
     steps:
       - name: Subscribe To Photon If This Helps!
